@@ -1,0 +1,195 @@
+.daniel {
+    border-radius: 50px;
+    margin-right: 10px;
+    border: 10px solid #7241ce;
+}
+.ade{
+    display: inline-block;
+    color: #ffffff;
+    opacity: 0.8;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+h2 {
+    font-size: 1.2rem;
+}
+h4 {
+    font-size: 1.3rem;
+    color: #ffffff;
+    font-style: arial;
+}
+h5 {
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+.daniel,.ade {
+    display: inline-block;
+    justify-content: start;
+}
+.omo {
+    background-color: #7241ce;
+    width: 210px;
+    display: center;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    margin-left: 60px;
+}
+.jona {
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.than {
+    display: inline;
+    color: #ffffff;
+    opacity: 0.8;
+}
+h6 {
+    font-size: 1.2rem;
+}
+.mo {
+    font-size: 1.3rem;
+    color: #ffffff;
+    font-style: arial;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+tot {
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+.jona,.than {
+    display: inline-block;
+    justify-content: start;
+}
+.second {
+    background-color: #475266;
+    width: 210px;
+    display: center;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.jean {
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.har{
+    display: inline-block;
+    color: black;
+    opacity: 0.8;
+}
+
+je {
+    font-size: 1.2rem;
+}
+.an {
+    font-size: 1.3rem;
+    color: black;
+    font-style: arial;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+thank {
+    font-size: 0.8rem;
+    opacity: 0.8;
+    color: black;
+}
+.jean,.har {
+    display: inline-block;
+    justify-content: start;
+    
+}
+.third {
+    background-color: white;
+    width: 210px;
+    display: center;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.pat {
+    border-radius: 50px;
+    margin-right: 10px;
+    border: 2px solid #7241ce;
+}
+.ric {
+    display: inline-block;
+    color: #ffffff;
+    opacity: 0.8;
+}
+
+pa {
+    font-size: 1.2rem;
+}
+.aw {
+    font-size: 1.3rem;
+    color: #ffffff;
+    font-style: arial;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+staff {
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+.pat,.ric {
+    display: inline-block;
+    justify-content: start;
+}
+.fourth {
+    background-color: black;
+    width: 210px;
+    display: center;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.kira {
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.kir {
+    display: inline-block;
+    color: black;
+    opacity: 0.8;
+}
+
+ra {
+    font-size: 1.2rem;
+}
+.such {
+    font-size: 1.3rem;
+    color: black;
+    font-style: arial;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+bef {
+    font-size: 0.8rem;
+    opacity: 0.8;
+    color: black;
+}
+.kira,.kir {
+    display: inline;
+    justify-content: start;
+}
+.fifth {
+    background-color: white;
+    width: 210px;
+    display: center;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+body {
+    background-color: #E6E6E6;
+}
